@@ -19,3 +19,8 @@
 
 # Go workspace file
 go.work
+/go.sum
+/.idea/modules.xml
+/.idea/oauth.iml
+/.idea/vcs.xml
+/.idea/.gitignore
